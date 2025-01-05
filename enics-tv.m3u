@@ -24,6 +24,9 @@ http://192.168.200.9:9111/stream/kapamilya/buko/master.m3u8?u=jm&p=84567e56fceb1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group-title="All Channels" , RPTV
 http://192.168.200.9:9111/stream/kapamilya/rptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/ALLTV2_Logo_2024.svg" group-title="All Channels" , ALLTV 2
+http://data.enics.cloud:9999/stream/iptv/alltv/master.m3u8?u=enics&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/PTV_4_Logo_June_2017.svg" group-title="All Channels" , PTV 4
 http://192.168.200.9:9111/stream/kapamilya/ptv4/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
@@ -99,6 +102,9 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="All Channels" , Animax
 http://192.168.200.9:9111/stream/kapamilya/animax/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Aniplus_logo.svg" group-title="All Channels" , Aniplus
+http://data.enics.cloud:9999/stream/iptv/aniplus/master.m3u8?u=enics&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="All Channels" , Dreamworks HD
 http://192.168.200.9:9111/stream/kapamilya/dreamworkshd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
@@ -110,6 +116,12 @@ http://192.168.200.9:9111/stream/kapamilya/moonbugkids/master.m3u8?u=jm&p=84567e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="All Channels" , ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_Channel_text_logo_%282024%29.svg" group-title="All Channels" , Disney Channel
+http://data.enics.cloud:9999/stream/iptv/disneychannel/master.m3u8?u=enics&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="All Channels" , Disney XD
+http://data.enics.cloud:9999/stream/iptv/disneyxd/master.m3u8?u=enics&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="All Channels" , Nickelodeon
 http://192.168.200.9:9111/stream/kapamilya/nickelodeon/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
