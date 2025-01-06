@@ -9,6 +9,9 @@ http://192.168.200.9:9111/stream/kapamilya/kchannel/master.m3u8?u=jm&p=84567e56f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="All Channels" , Kapamilya Channel
 http://192.168.200.9:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="All Channels" , Kapamilya Channel HD
+http://data.enics.cloud:9999/stream/iptv/kapamilya/master.m3u8?u=xigncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="All Channels" , I Heart Movie
 http://192.168.200.9:9111/stream/kapamilya/ihm/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
