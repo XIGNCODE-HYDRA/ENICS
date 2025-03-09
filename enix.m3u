@@ -1,104 +1,104 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:1 group-title="IPTV" tvg-id="iptv/a2z" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", A2Z
-http://channel.enixph.com:9898/stream/iptv/a2z/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/a2z/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:2 group-title="IPTV" tvg-id="iptv/alltv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", ALL TV
-http://channel.enixph.com:9898/stream/iptv/alltv/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/alltv/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:3 group-title="IPTV" tvg-id="iptv/animax" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", ANIMAX
-http://channel.enixph.com:9898/stream/iptv/animax/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/animax/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:4 group-title="IPTV" tvg-id="iptv/aniplus" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", ANIPLUS
-http://channel.enixph.com:9898/stream/iptv/aniplus/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/aniplus/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:5 group-title="IPTV" tvg-id="iptv/axn" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", AXN
-http://channel.enixph.com:9898/stream/iptv/axn/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/axn/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:6 group-title="IPTV" tvg-id="iptv/bollywood" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", BOLLYWOOD
-http://channel.enixph.com:9898/stream/iptv/bollywood/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/bollywood/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:7 group-title="IPTV" tvg-id="iptv/boomerang" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", BOOMERANG
-http://channel.enixph.com:9898/stream/iptv/boomerang/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/boomerang/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:8 group-title="IPTV" tvg-id="iptv/buko" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", BUKO
-http://channel.enixph.com:9898/stream/iptv/buko/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/buko/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:9 group-title="IPTV" tvg-id="iptv/cartoonnetwork" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", CARTOON NETWORK
-http://channel.enixph.com:9898/stream/iptv/cartoonnetwork/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/cartoonnetwork/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:10 group-title="IPTV" tvg-id="iptv/disneychannel" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", DISNEYCHANNEL
-http://channel.enixph.com:9898/stream/iptv/disneychannel/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/disneychannel/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:11 group-title="IPTV" tvg-id="iptv/disneyxd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", DISNEYXD
-http://channel.enixph.com:9898/stream/iptv/disneyxd/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/disneyxd/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:12 group-title="IPTV" tvg-id="iptv/dreamworkshd" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", DREAMWORKS HD
-http://channel.enixph.com:9898/stream/iptv/dreamworkshd/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/dreamworkshd/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:13 group-title="IPTV" tvg-id="iptv/dreamworkstagalog" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", DREAMWORKS TAGALOG
-http://channel.enixph.com:9898/stream/iptv/dreamworkstagalog/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/dreamworkstagalog/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:14 group-title="IPTV" tvg-id="iptv/ggmaa" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", GMA
-http://channel.enixph.com:9898/stream/iptv/ggmaa/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/ggmaa/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:15 group-title="IPTV" tvg-id="iptv/gtv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", GTV
-http://channel.enixph.com:9898/stream/iptv/gtv/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/gtv/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:16 group-title="IPTV" tvg-id="iptv/hbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", HBO
-http://channel.enixph.com:9898/stream/iptv/hbo/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/hbo/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:17 group-title="IPTV" tvg-id="iptv/hbofamily" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", HBO FAMILY
-http://channel.enixph.com:9898/stream/iptv/hbofamily/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/hbofamily/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:18 group-title="IPTV" tvg-id="iptv/hbohits" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", HBO HITS
-http://channel.enixph.com:9898/stream/iptv/hbohits/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/hbohits/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:19 group-title="IPTV" tvg-id="iptv/hbosignature" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", HBO SIGNATURE
-http://channel.enixph.com:9898/stream/iptv/hbosignature/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/hbosignature/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:20 group-title="IPTV" tvg-id="iptv/history" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", HISTORY
-http://channel.enixph.com:9898/stream/iptv/history/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/history/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:21 group-title="IPTV" tvg-id="iptv/jeepneytv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", JEEPNEY TV
-http://channel.enixph.com:9898/stream/iptv/jeepneytv/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/jeepneytv/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:22 group-title="IPTV" tvg-id="iptv/kapamilya" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", KAPAMILYA
-http://channel.enixph.com:9898/stream/iptv/kapamilya/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/kapamilya/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:23 group-title="IPTV" tvg-id="iptv/moonbug" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", MOONBUG
-http://channel.enixph.com:9898/stream/iptv/moonbug/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/moonbug/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:24 group-title="IPTV" tvg-id="iptv/mptv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", MPTV
-http://channel.enixph.com:9898/stream/iptv/mptv/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/mptv/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:25 group-title="IPTV" tvg-id="iptv/nbaph" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", NBA PH
-http://channel.enixph.com:9898/stream/iptv/nbaph/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/nbaph/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:26 group-title="IPTV" tvg-id="iptv/nickelodeon" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", NICKELODEON
-http://channel.enixph.com:9898/stream/iptv/nickelodeon/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/nickelodeon/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:27 group-title="IPTV" tvg-id="iptv/nickjr" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", NICKJR
-http://channel.enixph.com:9898/stream/iptv/nickjr/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/nickjr/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:28 group-title="IPTV" tvg-id="iptv/pbarush" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", PBA RUSH
-http://channel.enixph.com:9898/stream/iptv/pbarush/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/pbarush/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:29 group-title="IPTV" tvg-id="iptv/pbo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", PBO
-http://channel.enixph.com:9898/stream/iptv/pbo/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/pbo/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:30 group-title="IPTV" tvg-id="iptv/rptv" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", RPTV
-http://channel.enixph.com:9898/stream/iptv/rptv/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/rptv/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:31 group-title="IPTV" tvg-id="iptv/sari" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", SARI
-http://channel.enixph.com:9898/stream/iptv/sari/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/sari/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:32 group-title="IPTV" tvg-id="iptv/thrill" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", THRILL
-http://channel.enixph.com:9898/stream/iptv/thrill/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/thrill/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:33 group-title="IPTV" tvg-id="iptv/tmc" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", TMC
-http://channel.enixph.com:9898/stream/iptv/tmc/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/tmc/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
 #EXTINF:34 group-title="IPTV" tvg-id="iptv/tv5" tvg-logo="" provider="IPTV" provider-logo="" provider-type="", TV5
-http://channel.enixph.com:9898/stream/iptv/tv5/master.m3u8
+http://channel.enixph.com:9898/stream/iptv/tv5/master.m3u8?u=enix&p=854bbe3541015089f4c62a9d2dd9ae43fc4d41744e40b48eb03fcb4ce91b377c
 
