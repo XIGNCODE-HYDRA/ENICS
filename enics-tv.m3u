@@ -133,7 +133,7 @@ http://192.168.200.9:9111/stream/kapamilya/nickjr/master.m3u8?u=jm&p=84567e56fce
 http://192.168.200.9:9111/stream/kapamilya/cartoonnetwork/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg" group-title="All Channels" , Cartoonito HD
-https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Pinoy_Box_Office_logo.svg" group-title="All Channels" , PBO
 http://192.168.200.9:9111/stream/kapamilya/pbo/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
