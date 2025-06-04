@@ -180,6 +180,9 @@ http://192.168.200.9:9111/stream/kapamilya/hbohd/master.m3u8?u=jm&p=84567e56fceb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="All Channels" , Rock Action
 http://192.168.200.9:9111/stream/kapamilya/rockaction/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
+    #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satkurier.pl/uploads/64326.jpg" group-title="All Channels" , Bollywood
+http://192.168.200.9:9111/stream/kapamilya/bollywood/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="All Channels" , Rock Entertainment
 http://192.168.200.9:9111/stream/kapamilya/rockentertainment/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
