@@ -1,49 +1,49 @@
 #EXTM3U x-tvg-url="*"
 
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="All Channels" , TV5
-http://192.168.200.9:9111/stream/kapamilya/tv5/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tv5/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/GMA_Network_logo.png" group-title="All Channels" , GMA
-http://192.168.200.9:9111/stream/kapamilya/kchannel/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/kchannel/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="All Channels" , Kapamilya Channel
-http://192.168.200.9:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/kapamilyachannel/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="All Channels" , I Heart Movie
-http://192.168.200.9:9111/stream/kapamilya/ihm/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/ihm/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="All Channels" , GTV
-http://192.168.200.9:9111/stream/kapamilya/gtv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/gtv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="All Channels" , A2Z
-http://192.168.200.9:9111/stream/kapamilya/a2z/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/a2z/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="All Channels" , Buko Channel
-http://192.168.200.9:9111/stream/kapamilya/buko/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/buko/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group-title="All Channels" , RPTV
-http://192.168.200.9:9111/stream/kapamilya/rptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/rptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/PTV_4_Logo_June_2017.svg" group-title="All Channels" , PTV 4
-http://192.168.200.9:9111/stream/kapamilya/ptv4/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/ptv4/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="All Channels" , SARI-SARI
-http://192.168.200.9:9111/stream/kapamilya/sarisari/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/sarisari/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3xPsQ8nK/download-removebg-preview.png" group-title="All Channels" , TV UP
-http://192.168.200.9:9111/stream/kapamilya/tvup/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tvup/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/OneNewsPH_logo.svg" group-title="All Channels" , One News
-http://192.168.200.9:9111/stream/kapamilya/onenews/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/onenews/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/OnePH_logo.svg" group-title="All Channels" , One PH
-http://192.168.200.9:9111/stream/kapamilya/oneph/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/oneph/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/IBC_13_Logo_2011.svg" group-title="All Channels" , IBC
-http://192.168.200.9:9111/stream/kapamilya/ibc/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/ibc/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="All Channels" , TV Maria
-http://192.168.200.9:9111/stream/kapamilya/tvmaria/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tvmaria/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="28" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="All Channels" , CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
@@ -58,37 +58,37 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/1280px-NBA_TV_Philippines.png" group-title="All Channels" , NBA Philippines
-http://192.168.200.9:9111/stream/kapamilya/nbaphilippines/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/nbaphilippines/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="All Channels" , PBA Rush
-http://192.168.200.9:9111/stream/kapamilya/pbarush/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/pbarush/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/W4GvcppL/TAP-Sports-channel-logo.png" group-title="All Channels" , TAP Sports
-http://192.168.200.9:9111/stream/kapamilya/tapsports/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tapsports/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="All Channels" , One Sports
-http://192.168.200.9:9111/stream/kapamilya/onesport/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/onesport/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="All Channels" , One Sports+
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/bwL9bx90/MPTV-Logo-2023-removebg-preview.png" group-title="All Channels" , MPTV
-http://192.168.200.9:9111/stream/kapamilya/mptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/mptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/UAAP_87_logo.svg" group-title="All Channels" , UAAP
-http://192.168.200.9:9111/stream/kapamilya/uaap/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/uaap/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/SPOTV_logo.svg" group-title="All Channels" , SPOT TV
-http://192.168.200.9:9111/stream/kapamilya/spotv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/spotv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/SPOTV_logo.svg" group-title="All Channels" , SPOT TV2
-http://192.168.200.9:9111/stream/kapamilya/spottv2/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/spottv2/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="All Channels" , PREMIER SPORTS
-http://192.168.200.9:9111/stream/kapamilya/premiersports/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/premiersports/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="All Channels" , PREMIER SPORTS 2
-http://192.168.200.9:9111/stream/kapamilya/premiersports2/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/premiersports2/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="All Channels" , True FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
@@ -97,49 +97,49 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="All Channels" , Animax
-http://192.168.200.9:9111/stream/kapamilya/animax/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/animax/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="All Channels" , Dreamworks HD
-http://192.168.200.9:9111/stream/kapamilya/dreamworkshd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/dreamworkshd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="All Channels" , Dreamworks Tagalog
-http://192.168.200.9:9111/stream/kapamilya/dreamworkstagalog/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/dreamworkstagalog/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="All Channels" , Moonbug Kids
-http://192.168.200.9:9111/stream/kapamilya/moonbugkids/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/moonbugkids/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="All Channels" , ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="All Channels" , Nickelodeon
-http://192.168.200.9:9111/stream/kapamilya/nickelodeon/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/nickelodeon/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="All Channels" , Nick JR.
-http://192.168.200.9:9111/stream/kapamilya/nickjr/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/nickjr/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="178" tvg-name="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="All Channels" , Cartoon Network
-http://192.168.200.9:9111/stream/kapamilya/cartoonnetwork/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/cartoonnetwork/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Cartoonito_-_Logo_2021.svg" group-title="All Channels" , Cartoonito HD
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Pinoy_Box_Office_logo.svg" group-title="All Channels" , PBO
-http://192.168.200.9:9111/stream/kapamilya/pbo/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/pbo/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RC9VW5v/celet-removebg-preview.png" group-title="All Channels" , Celestial Movie Pinoy
-http://192.168.200.9:9111/stream/kapamilya/celestialpinoy/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/celestialpinoy/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mkvBm138/c4XvwO2.png" group-title="All Channels" , TVN Movies Pinoy
-http://192.168.200.9:9111/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tvnmoviespinoy/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/mkvBm138/c4XvwO2.png" group-title="All Channels" , TVN Premium+
-http://192.168.200.9:9111/stream/kapamilya/tvnpremium/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tvnpremium/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Viva_Entertainment.png" group-title="All Channels" , VIVA Cinema
-http://192.168.200.9:9111/stream/kapamilya/vivacinema/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/vivacinema/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" group-title="All Channels" , TMC
-http://192.168.200.9:9111/stream/kapamilya/tmc/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tmc/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="All Channels" , Cinemo!
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -148,57 +148,57 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png" group-title="All Channels" , TAP Edge
-http://192.168.200.9:9111/stream/kapamilya/tapedge/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tapedge/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/KIX_logo.svg" group-title="All Channels" , KIX HD
-http://192.168.200.9:9111/stream/kapamilya/kix/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/kix/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="All Channels" , HBO Family
-http://192.168.200.9:9111/stream/kapamilya/hbofamily/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hbofamily/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="185" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="All Channels" , HBO Signature
-http://192.168.200.9:9111/stream/kapamilya/hbosignature/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hbosignature/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="All Channels" , HBO Hits
-http://192.168.200.9:9111/stream/kapamilya/hbohits/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hbohits/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hbo-tp.png" group-title="All Channels" , HBO HD
-http://192.168.200.9:9111/stream/kapamilya/hbohd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hbohd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="All Channels" , Rock Action
-http://192.168.200.9:9111/stream/kapamilya/rockaction/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/rockaction/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="All Channels" , Rock Entertainment
-http://192.168.200.9:9111/stream/kapamilya/rockentertainment/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/rockentertainment/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Thrilllogo.webp" group-title="All Channels" , Thrill
-http://192.168.200.9:9111/stream/kapamilya/thrill/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/thrill/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NRrvM9N/Hits-Southeast-Asia.png" group-title="All Channels" , Hits HD
-http://192.168.200.9:9111/stream/kapamilya/hitshd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hitshd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/zvnfhkKq/hits-movies-logo-color.png" group-title="All Channels" , HITS Movies
-http://192.168.200.9:9111/stream/kapamilya/hitsmovies/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hitsmovies/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5NRrvM9N/Hits-Southeast-Asia.png" group-title="All Channels" , Hits Now
-http://192.168.200.9:9111/stream/kapamilya/hitsnow/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/hitsnow/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="All Channels" , Warner TV
-http://192.168.200.9:9111/stream/kapamilya/warnertv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/warnertv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="All Channels" , TAP Movies
-http://192.168.200.9:9111/stream/kapamilya/tapmovies/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/tapmovies/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="198" tvg-name="198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="All Channels" , CINEMAX
-http://192.168.200.9:9111/stream/kapamilya/cinemax/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/cinemax/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="All Channels" , Fashion TV
-http://192.168.200.9:9111/stream/kapamilya/fashiontv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/fashiontv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="All Channels" , TAP TV
-http://192.168.200.9:9111/stream/kapamilya/taptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/taptv/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
-#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="All Channels" , Travel Channel
+#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/15px-2018_Travel_Channel_logo.svg.png" group-title="All Channels" , Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
 #EXTINF:-1 tvg-id="246" tvg-name="246" tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="All Channels" , HGTV
@@ -207,20 +207,20 @@ https://dplus.gammacdn.workers.dev/videos/111.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/I_love_Kpop_tattoo_06.png" group-title="All Channels" , KPOP-TV
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF:-1 tvg-id="68" tvg-name="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="All Channels" , Food Network
+#EXTINF:-1 tvg-id="68" tvg-name="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/15px-Food_Network_logo.svg.png" group-title="All Channels" , Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="All Channels" , Arirang
-http://192.168.200.9:9111/stream/kapamilya/arirang/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/15px-Arirang_logo.png" group-title="All Channels" , Arirang
+http://192.168.5.1:9111/stream/kapamilya/arirang/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="Arirang.ph" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TS_logo_1920_x_1080.jpg" group-title="All Channels" , Tech Storm
-http://192.168.200.9:9111/stream/kapamilya/techstorm/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/techstorm/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="Aljazeera.ph" tvg-name="Aljazeera.ph" tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="All Channels" , ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="All Channels" , KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="75" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%2859%29.svg/2560px-KBS_World_%2859%29.svg.png" group-title="All Channels" , KBS World
+https://kbsworld-ott.akamaized.net/hls/live/52341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-id="Tv5.Monde.ph" tvg-name="Tv5.Monde.ph" tvg-logo="https://i.postimg.cc/8c0DNwg2/tv5monde.png" group-title="All Channels" , TV5 MONDE Asia
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -228,7 +228,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 #EXTINF:-1 tvg-id="222" tvg-name="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="All Channels" , NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/53459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="All Channels" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -237,19 +237,19 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-name="49" tvg-logo="https://i.postimg.cc/DznVVRbW/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png" group-title="All Channels" , AXN
-http://192.168.200.9:9111/stream/kapamilya/axn/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/axn/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="All Channels" , History
-http://192.168.200.9:9111/stream/kapamilya/history/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/history/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/CCTVNewLogo.svg" group-title="All Channels" , CCTV4
-http://192.168.200.9:9111/stream/kapamilya/cctv4/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/cctv4/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="All Channels" , CNA
-http://192.168.200.9:9111/stream/kapamilya/cna/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/cna/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Lifetime_tv_logo.svg" group-title="All Channels" , Lifetime SD
-http://192.168.200.9:9111/stream/kapamilya/lifetimesd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/lifetimesd/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="All Channels" , Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
@@ -263,7 +263,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="Cgtn.ph" tvg-name="Cgtn.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="All Channels" , CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:-1 tvg-id="France24.ph" tvg-name="France24.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="All Channels" , France 24
+#EXTINF:-1 tvg-id="France24.ph" tvg-name="France24.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/15px-FRANCE_24_logo.svg.png" group-title="All Channels" , France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lotusmacau.Prd.ph" tvg-name="Lotusmacau.Prd.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="All Channels" , Lotus Macau
@@ -288,10 +288,10 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="All Channels" , BBC Earth
-http://192.168.200.9:9111/stream/kapamilya/bbcearth/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/bbcearth/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="All Channels" , Animal Planet
-http://192.168.200.9:9111/stream/kapamilya/animalplanet/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
+http://192.168.5.1:9111/stream/kapamilya/animalplanet/master.m3u8?u=jm&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="All Channels" , Investigation Discovery
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
@@ -302,7 +302,7 @@ https://dplus.gammacdn.workers.dev/videos/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="All Channels" , Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="All Channels" , Wild Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-5px.png" group-title="All Channels" , Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="All Channels" , Thrillers
@@ -333,13 +333,13 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 https://comedy-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="All Channels" , Rakuten TV (Top Free)
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/50.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="All Channels" , Rakuten TV (Family)
-https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+https://rakuten-family-1-eu.rakuten.wurl.tv/50.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="All Channels" , Rakuten TV (Action Movies)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/50.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="All Channels" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
